@@ -1,0 +1,30 @@
+Q. What is a database?
+
+1. A collection of data
+
+eg:- yellow pages phone book/directory.
+
+First Name , Last Name - Phone num(with country code)
+
+Abc, Xyz - (91)-0123456
+
+2. Method for accessing and manipulating data.
+
+
+Q. Database VS Database Management System
+
+Database - gigantic collection of data
+
+DBMS(database management system) - interface allows us to talk/interact with the database.
+
+eg :- 
+
+DBMS - PostgreSQl , Oracle Database
+Databse - MySql , SQLite
+
+Q. MySql vs Sql ?
+
+A. SQL - structured query language - helps us to interact with databases.
+
+eg : - Find all users or find all users whose age is greatere than 18 ?
+
